@@ -81,6 +81,8 @@ If you find the code helpful in your research or work, please cite the following
 }
 ```
 
+---
+
 ## <a name="acknowledgements"></a>💡 Acknowledgements
 
 We thank the developers of [DiT4SR](https://github.com/Adam-duan/DiT4SR) for their open-source contributions, which have greatly facilitated our research.
