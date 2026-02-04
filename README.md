@@ -1,5 +1,21 @@
 # 🚀 Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer  Quantization for Real-World Image Super-Resolution
-[Xun Zhang](https://xunzhang1128.github.io/), [Kaicheng Yang](https://github.com/racoonykc), [Hongliang Lu](https://github.com/Lukebird17), [Haotong Qin](https://github.com/htqin), [Yong Guo](https://github.com/guoyongcs) and [Yulun Zhang](https://github.com/yulunzhang).
+
+<p align="center">
+  <a href="https://xunzhang1128.github.io/">Xun Zhang</a><sup>1</sup>,
+  <a href="https://github.com/racoonykc">Kaicheng Yang</a><sup>1</sup>,
+  <a href="https://github.com/Lukebird17">Hongliang Lu</a><sup>1</sup>,
+  <a href="https://github.com/htqin">Haotong Qin</a><sup>2</sup>,
+  <a href="https://github.com/guoyongcs">Yong Guo</a><sup>3</sup>,
+  <a href="https://github.com/yulunzhang"><b>Yulun Zhang</b></a><sup>1*</sup>
+</p>
+
+<p align="center">
+  <sup>1</sup>Shanghai Jiao Tong University &nbsp;&nbsp;
+  <sup>2</sup>ETH Zurich &nbsp;&nbsp;
+  <sup>3</sup>Huawei
+</p>
+
+
 
 <div align="center">
 <a href="https://github.com/xun04/Q-DiT4SR/releases" target='_blank' style="text-decoration: none;"><img src="https://img.shields.io/github/downloads/xun04/Q-DiT4SR/total?color=green&style=flat"></a>
