@@ -7,8 +7,11 @@
 <a href="https://github.com/xun04/Q-DiT4SR/stargazers" target='_blank' style="text-decoration: none;"><img src="https://img.shields.io/github/stars/xun04/Q-DiT4SR?style=social"></a>
 </div>
 
-[project] [[arXiv](https://arxiv.org/abs/2602.01273)] [[supplementary material](https://github.com/xunzhang1128/Q-DiT4SR/releases/download/v1/Supplementary_Material.pdf)]
-
+<p align="center">
+[project] 
+[<a href="https://arxiv.org/abs/2602.01273">arXiv</a>]
+[<a href="https://github.com/xunzhang1128/Q-DiT4SR/releases/download/v1/Supplementary_Material.pdf">supplementary material</a>]
+</p>
 
 #### 🔥🔥🔥 News
 
