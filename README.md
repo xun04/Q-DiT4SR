@@ -1,5 +1,5 @@
 <div align="center">
-<p align="center"> <img src="figs/qdit4sr.png" width="520px"> </p>
+<p align="center"> <img src="figs/qdit4sr.png" width="540px"> </p>
 </div>
 
 # 🚀 Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer  Quantization for Real-World Image Super-Resolution
