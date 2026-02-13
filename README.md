@@ -33,10 +33,13 @@
 [<a href="https://github.com/xunzhang1128/Q-DiT4SR/releases/download/v1/Supplementary_Material.pdf">supplementary material</a>]
 </p>
 
-#### 🔥🔥🔥 News
+---
+## 🔥🔥🔥 News
 
 - [**2026-01-31**] Repository initial release.
 
+
+### ⭐⭐⭐ If Q-DiT4SR is helpful to your projects, please help star this repo. Thanks!
 ---
 
 ## 📘 Abstract
